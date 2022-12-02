@@ -1,0 +1,5 @@
+C:\HUDL\HudlLoginTestSuite\HudlLoginTestSuite\obj\Debug\netcoreapp3.1\HudlLoginTestSuite.csproj.AssemblyReference.cache
+C:\HUDL\HudlLoginTestSuite\HudlLoginTestSuite\obj\Debug\netcoreapp3.1\HudlLoginTestSuite.GeneratedMSBuildEditorConfig.editorconfig
+C:\HUDL\HudlLoginTestSuite\HudlLoginTestSuite\obj\Debug\netcoreapp3.1\HudlLoginTestSuite.AssemblyInfoInputs.cache
+C:\HUDL\HudlLoginTestSuite\HudlLoginTestSuite\obj\Debug\netcoreapp3.1\HudlLoginTestSuite.AssemblyInfo.cs
+C:\HUDL\HudlLoginTestSuite\HudlLoginTestSuite\obj\Debug\netcoreapp3.1\HudlLoginTestSuite.csproj.CoreCompileInputs.cache
