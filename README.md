@@ -31,7 +31,7 @@ Download link if needed: https://chromedriver.chromium.org/downloads
 
 1. Download and install all the necessary packages, extensions and IDE ( restarting of the IDE may be needed after installations )
 
-2. Download the project 
+2. Download the Nunit project 
 
 3. Make sure the variable parameters 'Email' & 'Password' are properly filled in the feature file. Failing to do so will not execute credential sensitive tests
 
