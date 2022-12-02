@@ -16,7 +16,7 @@ Download link: https://www.techspot.com/downloads/7493-visual-studio-2022.html
 
 Download link: https://chromedriver.chromium.org/downloads
 
-*Note 1: Make sure to match the ChromeDriver version with the Chrome browser version. If unmatched the tests wont run*
+*Note 1: Make sure to match the ChromeDriver version with the Chrome browser version. If unmatched System.Reflection.TargetInvocationException will be thrown*
 *Nore 2: The user can install any driver of their choice, the broswer and driver versions should match and user needs to initialize the chosen driver in StepBindings
  
  **4. NUGET PACKAGES :**
